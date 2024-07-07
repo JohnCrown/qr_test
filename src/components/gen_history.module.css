@@ -1,0 +1,16 @@
+.gen_history {
+  display: flex;
+  justify-content: center;
+   flex-direction: column;
+   text-align: center;
+   margin: 5%;
+   padding: 5px;
+  
+}
+.gen_names{
+  color: red;
+  
+  border: 2px dotted rgb(17, 0, 255);
+  font-size: 24px;
+  
+}
